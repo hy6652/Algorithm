@@ -10,14 +10,13 @@ def solution(nums):
             for k in range(j+1, len(nums)):
                 a = nums[i] + nums[j] + nums[k]
                 sum.append(a)
-    
+                
     count = 0
     for i in sum:
         total = 0
         for j in range(1, i+1):
             if i % j == 0:
                 total += 1
-        
         if total == 2:
             count += 1
 
