@@ -14,6 +14,3 @@ def reverseString(s: List[str]) -> None:
 # 2. 파이썬 함수
 def reverseSting(s: List[str]) -> None:
     s.reverse()
-
-
-reverseString(["h", "e", "l", "l", "o"])
