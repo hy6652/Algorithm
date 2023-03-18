@@ -11,7 +11,7 @@
 </div>
 </details>
 </p>
----
+
 <p>
 <h2>배열</h2>
 <details>
@@ -29,7 +29,7 @@
 </div>
 </details>
 </p>
----
+
 <p>
 <h2>연결 리스트</h2>
 <details>
