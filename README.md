@@ -45,11 +45,19 @@
 <img width="40%" src="https://user-images.githubusercontent.com/80018243/226106062-fb0a82a5-9795-4668-8318-4dab9fd583eb.jpg">
 </div>
 </details>
+
+<details>
+<summary>홀짝 연결 리스트</summary>
+<div markdown="1">
+<img width="40%" src="https://user-images.githubusercontent.com/80018243/227063565-f1d6e366-761a-4749-a085-794e9459d856.jpg">
+</div>
+</details>
+
+<details>
+<summary>역순 연결 리스트2</summary>
+<div markdown="1">
+<img width="40%" src="https://user-images.githubusercontent.com/80018243/227063615-583e4bf0-40b0-4fdb-a3ef-38cda19cb0d8.jpg">
+</div>
+</details>
 </p>
-
-
-
-
-
-
 
